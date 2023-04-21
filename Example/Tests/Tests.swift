@@ -1,5 +1,5 @@
 import XCTest
-import luiz-sdk
+import luiz_sdk
 
 class Tests: XCTestCase {
     
