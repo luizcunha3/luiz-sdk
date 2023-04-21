@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'luiz-sdk_Example' do
+  pod 'luiz-sdk', :path => '../'
+
+  target 'luiz-sdk_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
