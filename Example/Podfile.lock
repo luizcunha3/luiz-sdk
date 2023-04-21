@@ -1,5 +1,5 @@
 PODS:
-  - luiz-sdk (0.1.2)
+  - luiz-sdk (0.1.3)
 
 DEPENDENCIES:
   - luiz-sdk (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  luiz-sdk: b80368a03e169c7ad55611446eb5b4c6d4fedddf
+  luiz-sdk: 71b13377a21664f1f89670aa0e97d6677d80ddc3
 
 PODFILE CHECKSUM: 2f71a46ee4ba6e4838168ea505c0858c895db3f4
 
