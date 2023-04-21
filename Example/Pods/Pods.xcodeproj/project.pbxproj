@@ -8,92 +8,92 @@
 
 /* Begin PBXBuildFile section */
 		0003B52147594A86501AD50C212B303E /* Pods-luiz-sdk_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = D79CDE087949A6A6854908ABD769EF93 /* Pods-luiz-sdk_Example-dummy.m */; };
-		099D8AD9A4D8D55843D58C94E01A47EB /* luiz-sdk-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = B4ACAEB90FCE4C5BAD09B21037488B64 /* luiz-sdk-dummy.m */; };
-		1D007C0D9B71B338AEFAA1C07EFB12BB /* ReplaceMe.swift in Sources */ = {isa = PBXBuildFile; fileRef = F799C9FE11C92D16E918CE7559BBA7E5 /* ReplaceMe.swift */; };
+		029D5F6A7173AF5209966180DD1C53C0 /* AppCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48237552B8644A57F8AC774F7E5230E2 /* AppCoordinator.swift */; };
+		0F8AB52995B705E78C32C1A8200809B1 /* DSConstraint.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B85A0F1D083DCF77C7AD93AE1ACFCC9 /* DSConstraint.swift */; };
+		2CEBFB039561C0C9A709B40AFDC4C8B4 /* DSView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5864B91121D8D3A1916C861CC9FC8CBF /* DSView.swift */; };
+		304B830220E08231DA7A60B404C1496C /* ParentViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14B18AC08A0C8167E56B39D1F4856597 /* ParentViewController.swift */; };
 		30937B7E1939701C56828FE92C680B8E /* Pods-luiz-sdk_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = E1456350F3DE81FB7749DEB31B772B02 /* Pods-luiz-sdk_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		32F5596177E41FE3D29A87BFF1733CFC /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
 		3B3A2611C0DE850A40958B687473DF36 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
-		56A7099929F244D900D99B90 /* LColors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56A7098C29F244D900D99B90 /* LColors.swift */; };
-		56A7099A29F244D900D99B90 /* LuizDesginSystem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56A7098D29F244D900D99B90 /* LuizDesginSystem.swift */; };
-		56A7099B29F244D900D99B90 /* NSLayoutConstraint+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56A7098E29F244D900D99B90 /* NSLayoutConstraint+Extension.swift */; };
-		56A7099C29F244D900D99B90 /* AppCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56A7099029F244D900D99B90 /* AppCoordinator.swift */; };
-		56A7099D29F244D900D99B90 /* ParentViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56A7099129F244D900D99B90 /* ParentViewController.swift */; };
-		56A7099E29F244D900D99B90 /* CoordinatorProtocols.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56A7099229F244D900D99B90 /* CoordinatorProtocols.swift */; };
-		56A7099F29F244D900D99B90 /* Array+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56A7099329F244D900D99B90 /* Array+Extension.swift */; };
-		56A709A029F244D900D99B90 /* DSConstraint.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56A7099429F244D900D99B90 /* DSConstraint.swift */; };
-		56A709A129F244D900D99B90 /* DSView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56A7099529F244D900D99B90 /* DSView.swift */; };
-		56A709A229F244D900D99B90 /* NSLayoutConstraintType+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56A7099629F244D900D99B90 /* NSLayoutConstraintType+Extension.swift */; };
-		56A709A329F244D900D99B90 /* ContentScrollView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56A7099729F244D900D99B90 /* ContentScrollView.swift */; };
-		56A709A429F244D900D99B90 /* UIView+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56A7099829F244D900D99B90 /* UIView+Extension.swift */; };
+		44A5C70F426DDBCB3CC4D750E311D6E7 /* CoordinatorProtocols.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D3D07830F69A474B2851D635F90D49B /* CoordinatorProtocols.swift */; };
+		44D46176AA918F8D57D45EE1F83F2911 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
+		5150F44DA9E464D6624B83B6D10B1788 /* ContentScrollView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAE3CD28F34CB3D449B89737EA851397 /* ContentScrollView.swift */; };
+		522D2D88A1DDA7EA7FD49A474C6F8ECA /* NSLayoutConstraint+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FB24DBBA4EC8D9BE79AB8F4336F6180 /* NSLayoutConstraint+Extension.swift */; };
+		52B850B0ECBFCCE8A5D34CA94F7EF0A9 /* NSLayoutConstraintType+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 432C83BC0443CA22A78E01C995397E0C /* NSLayoutConstraintType+Extension.swift */; };
+		562D25A508774ADAB75A492D0CEFF4D6 /* ReplaceMe.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12095E9B27D8F63F020987B13F34B4C6 /* ReplaceMe.swift */; };
+		6CF0CCFCDE2F74A96496CD1B5843432D /* LColors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0208A980D46DDF91ECB4DAC70FA35249 /* LColors.swift */; };
+		6F7B90FF8D50A016F950F404FAA93F33 /* luiz-sdk-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = BBAFAE49FCBB511F6ED4D4841632334B /* luiz-sdk-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		841D5B48B3C485CDAEF7EEDF50E3F062 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
 		8A3AACB4EC242FDFA2D98511746BD151 /* Pods-luiz-sdk_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = F8326D3F6B9F2F5A33EA3DACB2234464 /* Pods-luiz-sdk_Tests-dummy.m */; };
-		96F3AD9292AE679F983F3BFBF3670EF7 /* luiz-sdk-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 5F06061F9E5AC5D703BCA5B5E94EF39C /* luiz-sdk-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		9BE7C336FEB8447F1544ADADD9C2F926 /* LuizDesginSystem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23E9E8B945E59450FF233F12D72029E6 /* LuizDesginSystem.swift */; };
+		9D8B92E6EC4CC8956C05A0C18130CF70 /* UIView+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 383A936F64BAA27CEBD0A7252D25CEDA /* UIView+Extension.swift */; };
+		B6873295B2F107992FAA23C5B4940DA6 /* Array+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = D455C92A08749041867DB8B16DFEF1A6 /* Array+Extension.swift */; };
 		BB331039DEA9FEFFBF4379AE31483D2A /* Pods-luiz-sdk_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 30563EDEF37D9BBC17E3A28E257C2261 /* Pods-luiz-sdk_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		F1EEE494B84477420E468736B8DCC99A /* luiz-sdk-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 18F6BA4E84346DCF3DFF51F5C8889917 /* luiz-sdk-dummy.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		106338930F7F142FD5B7C3A58DCCB008 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = DF99E309175EACEBA9449D063D4F6129;
-			remoteInfo = "luiz-sdk";
-		};
-		A4AF8382760AD7BE056ABD04757FB3F5 /* PBXContainerItemProxy */ = {
+		2D189E6BB8877684F5BFD39DC4683DD4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 23C6266D015F9C3D0B309FA6FBE81147;
 			remoteInfo = "Pods-luiz-sdk_Example";
 		};
+		C5F8B2FF211FEFD0620D2327F291D3A6 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = DF99E309175EACEBA9449D063D4F6129;
+			remoteInfo = "luiz-sdk";
+		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0208A980D46DDF91ECB4DAC70FA35249 /* LColors.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = LColors.swift; path = "luiz-sdk/Classes/LColors.swift"; sourceTree = "<group>"; };
+		028C485F5717472114F9C13DB4568A7E /* luiz-sdk.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "luiz-sdk.modulemap"; sourceTree = "<group>"; };
 		0B26EA37AA6572670CFC08B42E732650 /* Pods-luiz-sdk_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-luiz-sdk_Example-frameworks.sh"; sourceTree = "<group>"; };
+		12095E9B27D8F63F020987B13F34B4C6 /* ReplaceMe.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ReplaceMe.swift; path = "luiz-sdk/Classes/ReplaceMe.swift"; sourceTree = "<group>"; };
 		134F9818EE4D78328F17A94E26BDF7A6 /* Pods-luiz-sdk_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-luiz-sdk_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		18930993B3A148E7267F4A6610ED7C1B /* luiz-sdk.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "luiz-sdk.debug.xcconfig"; sourceTree = "<group>"; };
+		14B18AC08A0C8167E56B39D1F4856597 /* ParentViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = ParentViewController.swift; sourceTree = "<group>"; };
+		15A414EF3BB11F30A19A0C4B2A048D07 /* luiz-sdk.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "luiz-sdk.debug.xcconfig"; sourceTree = "<group>"; };
+		18F6BA4E84346DCF3DFF51F5C8889917 /* luiz-sdk-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "luiz-sdk-dummy.m"; sourceTree = "<group>"; };
+		1A590822A548952598DB6F4F5B380338 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
 		1B1FBA6E515E3EC1357E4AE0EF7A588D /* Pods-luiz-sdk_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-luiz-sdk_Example.modulemap"; sourceTree = "<group>"; };
+		1D3D07830F69A474B2851D635F90D49B /* CoordinatorProtocols.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = CoordinatorProtocols.swift; sourceTree = "<group>"; };
+		23E9E8B945E59450FF233F12D72029E6 /* LuizDesginSystem.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = LuizDesginSystem.swift; path = "luiz-sdk/Classes/LuizDesginSystem.swift"; sourceTree = "<group>"; };
+		2B85A0F1D083DCF77C7AD93AE1ACFCC9 /* DSConstraint.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = DSConstraint.swift; path = "luiz-sdk/Classes/DSConstraint.swift"; sourceTree = "<group>"; };
+		2CB4D0BB6B247E06940D64B0BBA32FB3 /* luiz-sdk.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = "luiz-sdk.podspec"; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		30563EDEF37D9BBC17E3A28E257C2261 /* Pods-luiz-sdk_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-luiz-sdk_Tests-umbrella.h"; sourceTree = "<group>"; };
 		36141A19A3CD1519B0FBBD2B9506D00D /* luiz-sdk */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "luiz-sdk"; path = luiz_sdk.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		37ECAF7419E7CE0C3370AB42D899F8F6 /* Pods-luiz-sdk_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-luiz-sdk_Example-Info.plist"; sourceTree = "<group>"; };
+		383A936F64BAA27CEBD0A7252D25CEDA /* UIView+Extension.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "UIView+Extension.swift"; path = "luiz-sdk/Classes/UIView+Extension.swift"; sourceTree = "<group>"; };
 		3E4EB21F301E345561D884D33A262307 /* Pods-luiz-sdk_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-luiz-sdk_Example.debug.xcconfig"; sourceTree = "<group>"; };
+		432C83BC0443CA22A78E01C995397E0C /* NSLayoutConstraintType+Extension.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "NSLayoutConstraintType+Extension.swift"; path = "luiz-sdk/Classes/NSLayoutConstraintType+Extension.swift"; sourceTree = "<group>"; };
+		4376D6D5BAC66D238CB1E0A0D8DE6254 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		48237552B8644A57F8AC774F7E5230E2 /* AppCoordinator.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = AppCoordinator.swift; sourceTree = "<group>"; };
+		4BFAEF776913F609F657ACA113561A0D /* luiz-sdk-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "luiz-sdk-Info.plist"; sourceTree = "<group>"; };
 		4E76A754016CF0110DB92E8251C99F11 /* Pods-luiz-sdk_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-luiz-sdk_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		56A7098C29F244D900D99B90 /* LColors.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = LColors.swift; path = "../luiz-design-system-old/Sources/LuizDesginSystem/LColors.swift"; sourceTree = "<group>"; };
-		56A7098D29F244D900D99B90 /* LuizDesginSystem.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = LuizDesginSystem.swift; path = "../luiz-design-system-old/Sources/LuizDesginSystem/LuizDesginSystem.swift"; sourceTree = "<group>"; };
-		56A7098E29F244D900D99B90 /* NSLayoutConstraint+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "NSLayoutConstraint+Extension.swift"; path = "../luiz-design-system-old/Sources/LuizDesginSystem/NSLayoutConstraint+Extension.swift"; sourceTree = "<group>"; };
-		56A7099029F244D900D99B90 /* AppCoordinator.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppCoordinator.swift; sourceTree = "<group>"; };
-		56A7099129F244D900D99B90 /* ParentViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ParentViewController.swift; sourceTree = "<group>"; };
-		56A7099229F244D900D99B90 /* CoordinatorProtocols.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CoordinatorProtocols.swift; sourceTree = "<group>"; };
-		56A7099329F244D900D99B90 /* Array+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "Array+Extension.swift"; path = "../luiz-design-system-old/Sources/LuizDesginSystem/Array+Extension.swift"; sourceTree = "<group>"; };
-		56A7099429F244D900D99B90 /* DSConstraint.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = DSConstraint.swift; path = "../luiz-design-system-old/Sources/LuizDesginSystem/DSConstraint.swift"; sourceTree = "<group>"; };
-		56A7099529F244D900D99B90 /* DSView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = DSView.swift; path = "../luiz-design-system-old/Sources/LuizDesginSystem/DSView.swift"; sourceTree = "<group>"; };
-		56A7099629F244D900D99B90 /* NSLayoutConstraintType+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "NSLayoutConstraintType+Extension.swift"; path = "../luiz-design-system-old/Sources/LuizDesginSystem/NSLayoutConstraintType+Extension.swift"; sourceTree = "<group>"; };
-		56A7099729F244D900D99B90 /* ContentScrollView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ContentScrollView.swift; path = "../luiz-design-system-old/Sources/LuizDesginSystem/ContentScrollView.swift"; sourceTree = "<group>"; };
-		56A7099829F244D900D99B90 /* UIView+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "UIView+Extension.swift"; path = "../luiz-design-system-old/Sources/LuizDesginSystem/UIView+Extension.swift"; sourceTree = "<group>"; };
-		5F06061F9E5AC5D703BCA5B5E94EF39C /* luiz-sdk-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "luiz-sdk-umbrella.h"; sourceTree = "<group>"; };
+		5864B91121D8D3A1916C861CC9FC8CBF /* DSView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = DSView.swift; path = "luiz-sdk/Classes/DSView.swift"; sourceTree = "<group>"; };
 		613F2219EDE1D6A9670D6EB925C478D3 /* Pods-luiz-sdk_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-luiz-sdk_Tests-Info.plist"; sourceTree = "<group>"; };
+		63A42AFC1E1F136104F25AECAE35B0A4 /* luiz-sdk.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "luiz-sdk.release.xcconfig"; sourceTree = "<group>"; };
 		6B8DCAE4491D4A9746153D8144E90A6B /* Pods-luiz-sdk_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-luiz-sdk_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		7FB24DBBA4EC8D9BE79AB8F4336F6180 /* NSLayoutConstraint+Extension.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "NSLayoutConstraint+Extension.swift"; path = "luiz-sdk/Classes/NSLayoutConstraint+Extension.swift"; sourceTree = "<group>"; };
 		81E3576E276B65ED59B7A8B8947612DE /* Pods-luiz-sdk_Tests */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-luiz-sdk_Tests"; path = Pods_luiz_sdk_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		8B1BE00C0B97FCE18DD0F74830218B9E /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
-		8E460B06D4300B519EBA072A0EC0672D /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		9A61DFA7B065827E4108C08368FF6E00 /* Pods-luiz-sdk_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-luiz-sdk_Example.release.xcconfig"; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9D9F286E24EF673A1F0DC26DAB5B6840 /* Pods-luiz-sdk_Example */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-luiz-sdk_Example"; path = Pods_luiz_sdk_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		9F3EA5DC0E3205A4C111FFBD66DE29B1 /* luiz-sdk-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "luiz-sdk-Info.plist"; sourceTree = "<group>"; };
+		A0815A4445122562CA0957C544C7AAE1 /* luiz-sdk-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "luiz-sdk-prefix.pch"; sourceTree = "<group>"; };
 		A0E1EEE379C2A6C61B00375DD1590C2F /* Pods-luiz-sdk_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-luiz-sdk_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		A6F919B6DA94678D69B9CD69933FEAE6 /* Pods-luiz-sdk_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-luiz-sdk_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		B04621B4605286A106F01D4C366305E1 /* Pods-luiz-sdk_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-luiz-sdk_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		B4ACAEB90FCE4C5BAD09B21037488B64 /* luiz-sdk-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "luiz-sdk-dummy.m"; sourceTree = "<group>"; };
-		B74A68E1B689284A99AC3D3E12F42C16 /* luiz-sdk.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "luiz-sdk.modulemap"; sourceTree = "<group>"; };
+		BBAFAE49FCBB511F6ED4D4841632334B /* luiz-sdk-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "luiz-sdk-umbrella.h"; sourceTree = "<group>"; };
 		BF7A8A3C0B82B6C3BE27732A3653EC66 /* Pods-luiz-sdk_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-luiz-sdk_Tests.modulemap"; sourceTree = "<group>"; };
-		CED26AE15690BA5252B46E3F43329FCB /* luiz-sdk.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = "luiz-sdk.podspec"; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		D455C92A08749041867DB8B16DFEF1A6 /* Array+Extension.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "Array+Extension.swift"; path = "luiz-sdk/Classes/Array+Extension.swift"; sourceTree = "<group>"; };
 		D79CDE087949A6A6854908ABD769EF93 /* Pods-luiz-sdk_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-luiz-sdk_Example-dummy.m"; sourceTree = "<group>"; };
 		E1456350F3DE81FB7749DEB31B772B02 /* Pods-luiz-sdk_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-luiz-sdk_Example-umbrella.h"; sourceTree = "<group>"; };
-		F6513C655176651A813F8211CDE2FFC5 /* luiz-sdk.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "luiz-sdk.release.xcconfig"; sourceTree = "<group>"; };
-		F799C9FE11C92D16E918CE7559BBA7E5 /* ReplaceMe.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ReplaceMe.swift; path = "luiz-sdk/Classes/ReplaceMe.swift"; sourceTree = "<group>"; };
+		EAE3CD28F34CB3D449B89737EA851397 /* ContentScrollView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ContentScrollView.swift; path = "luiz-sdk/Classes/ContentScrollView.swift"; sourceTree = "<group>"; };
 		F8326D3F6B9F2F5A33EA3DACB2234464 /* Pods-luiz-sdk_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-luiz-sdk_Tests-dummy.m"; sourceTree = "<group>"; };
-		FD3C84B73E6CEFC21BE85BA025EE3E2E /* luiz-sdk-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "luiz-sdk-prefix.pch"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,11 +113,11 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		E06D23E4AC946E8E0A8631A86FBBAB08 /* Frameworks */ = {
+		ECF4F6F004E96A7C48717E787F375C94 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				32F5596177E41FE3D29A87BFF1733CFC /* Foundation.framework in Frameworks */,
+				44D46176AA918F8D57D45EE1F83F2911 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -149,48 +149,6 @@
 			path = "Target Support Files/Pods-luiz-sdk_Tests";
 			sourceTree = "<group>";
 		};
-		32CB1CB9A25F109A88E36CB03FE837D5 /* luiz-sdk */ = {
-			isa = PBXGroup;
-			children = (
-				56A7099329F244D900D99B90 /* Array+Extension.swift */,
-				56A7099729F244D900D99B90 /* ContentScrollView.swift */,
-				56A7099429F244D900D99B90 /* DSConstraint.swift */,
-				56A7099529F244D900D99B90 /* DSView.swift */,
-				56A7098C29F244D900D99B90 /* LColors.swift */,
-				56A7098D29F244D900D99B90 /* LuizDesginSystem.swift */,
-				56A7098E29F244D900D99B90 /* NSLayoutConstraint+Extension.swift */,
-				56A7099629F244D900D99B90 /* NSLayoutConstraintType+Extension.swift */,
-				56A7098F29F244D900D99B90 /* Structure */,
-				56A7099829F244D900D99B90 /* UIView+Extension.swift */,
-				F799C9FE11C92D16E918CE7559BBA7E5 /* ReplaceMe.swift */,
-				4D27FBF20A4F65517810D27B618A4491 /* Pod */,
-				C12DE2D6CB9EE181BA65BC7BEE121FE2 /* Support Files */,
-			);
-			name = "luiz-sdk";
-			path = ../..;
-			sourceTree = "<group>";
-		};
-		4D27FBF20A4F65517810D27B618A4491 /* Pod */ = {
-			isa = PBXGroup;
-			children = (
-				8B1BE00C0B97FCE18DD0F74830218B9E /* LICENSE */,
-				CED26AE15690BA5252B46E3F43329FCB /* luiz-sdk.podspec */,
-				8E460B06D4300B519EBA072A0EC0672D /* README.md */,
-			);
-			name = Pod;
-			sourceTree = "<group>";
-		};
-		56A7098F29F244D900D99B90 /* Structure */ = {
-			isa = PBXGroup;
-			children = (
-				56A7099029F244D900D99B90 /* AppCoordinator.swift */,
-				56A7099129F244D900D99B90 /* ParentViewController.swift */,
-				56A7099229F244D900D99B90 /* CoordinatorProtocols.swift */,
-			);
-			name = Structure;
-			path = "../luiz-design-system-old/Sources/LuizDesginSystem/Structure";
-			sourceTree = "<group>";
-		};
 		578452D2E740E91742655AC8F1636D1F /* iOS */ = {
 			isa = PBXGroup;
 			children = (
@@ -216,6 +174,14 @@
 			path = "Target Support Files/Pods-luiz-sdk_Example";
 			sourceTree = "<group>";
 		};
+		77CB055A3DA090847D87FCC0DD3E1642 /* Development Pods */ = {
+			isa = PBXGroup;
+			children = (
+				B3DEA8DD8586816EF4BF4B7737FB935E /* luiz-sdk */,
+			);
+			name = "Development Pods";
+			sourceTree = "<group>";
+		};
 		9F9FBB319AAA8C25DDF0985B0BA36140 /* Products */ = {
 			isa = PBXGroup;
 			children = (
@@ -226,24 +192,48 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		B86F02379C6080930634A2403BE3578C /* Development Pods */ = {
+		AF0DC67AC8E0FD53E8B3E4DAD09141B8 /* Structure */ = {
 			isa = PBXGroup;
 			children = (
-				32CB1CB9A25F109A88E36CB03FE837D5 /* luiz-sdk */,
+				48237552B8644A57F8AC774F7E5230E2 /* AppCoordinator.swift */,
+				1D3D07830F69A474B2851D635F90D49B /* CoordinatorProtocols.swift */,
+				14B18AC08A0C8167E56B39D1F4856597 /* ParentViewController.swift */,
 			);
-			name = "Development Pods";
+			name = Structure;
+			path = "luiz-sdk/Classes/Structure";
 			sourceTree = "<group>";
 		};
-		C12DE2D6CB9EE181BA65BC7BEE121FE2 /* Support Files */ = {
+		B3DEA8DD8586816EF4BF4B7737FB935E /* luiz-sdk */ = {
 			isa = PBXGroup;
 			children = (
-				B74A68E1B689284A99AC3D3E12F42C16 /* luiz-sdk.modulemap */,
-				B4ACAEB90FCE4C5BAD09B21037488B64 /* luiz-sdk-dummy.m */,
-				9F3EA5DC0E3205A4C111FFBD66DE29B1 /* luiz-sdk-Info.plist */,
-				FD3C84B73E6CEFC21BE85BA025EE3E2E /* luiz-sdk-prefix.pch */,
-				5F06061F9E5AC5D703BCA5B5E94EF39C /* luiz-sdk-umbrella.h */,
-				18930993B3A148E7267F4A6610ED7C1B /* luiz-sdk.debug.xcconfig */,
-				F6513C655176651A813F8211CDE2FFC5 /* luiz-sdk.release.xcconfig */,
+				D455C92A08749041867DB8B16DFEF1A6 /* Array+Extension.swift */,
+				EAE3CD28F34CB3D449B89737EA851397 /* ContentScrollView.swift */,
+				2B85A0F1D083DCF77C7AD93AE1ACFCC9 /* DSConstraint.swift */,
+				5864B91121D8D3A1916C861CC9FC8CBF /* DSView.swift */,
+				0208A980D46DDF91ECB4DAC70FA35249 /* LColors.swift */,
+				23E9E8B945E59450FF233F12D72029E6 /* LuizDesginSystem.swift */,
+				7FB24DBBA4EC8D9BE79AB8F4336F6180 /* NSLayoutConstraint+Extension.swift */,
+				432C83BC0443CA22A78E01C995397E0C /* NSLayoutConstraintType+Extension.swift */,
+				12095E9B27D8F63F020987B13F34B4C6 /* ReplaceMe.swift */,
+				383A936F64BAA27CEBD0A7252D25CEDA /* UIView+Extension.swift */,
+				D50D3320AEDE231FF510B618ACE83E99 /* Pod */,
+				AF0DC67AC8E0FD53E8B3E4DAD09141B8 /* Structure */,
+				C31A91E296665B2393E368BF62AD30CD /* Support Files */,
+			);
+			name = "luiz-sdk";
+			path = ../..;
+			sourceTree = "<group>";
+		};
+		C31A91E296665B2393E368BF62AD30CD /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				028C485F5717472114F9C13DB4568A7E /* luiz-sdk.modulemap */,
+				18F6BA4E84346DCF3DFF51F5C8889917 /* luiz-sdk-dummy.m */,
+				4BFAEF776913F609F657ACA113561A0D /* luiz-sdk-Info.plist */,
+				A0815A4445122562CA0957C544C7AAE1 /* luiz-sdk-prefix.pch */,
+				BBAFAE49FCBB511F6ED4D4841632334B /* luiz-sdk-umbrella.h */,
+				15A414EF3BB11F30A19A0C4B2A048D07 /* luiz-sdk.debug.xcconfig */,
+				63A42AFC1E1F136104F25AECAE35B0A4 /* luiz-sdk.release.xcconfig */,
 			);
 			name = "Support Files";
 			path = "Example/Pods/Target Support Files/luiz-sdk";
@@ -253,7 +243,7 @@
 			isa = PBXGroup;
 			children = (
 				9D940727FF8FB9C785EB98E56350EF41 /* Podfile */,
-				B86F02379C6080930634A2403BE3578C /* Development Pods */,
+				77CB055A3DA090847D87FCC0DD3E1642 /* Development Pods */,
 				D210D550F4EA176C3123ED886F8F87F5 /* Frameworks */,
 				9F9FBB319AAA8C25DDF0985B0BA36140 /* Products */,
 				124D4F529A44B0F80C601A9909249FAA /* Targets Support Files */,
@@ -268,6 +258,16 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
+		D50D3320AEDE231FF510B618ACE83E99 /* Pod */ = {
+			isa = PBXGroup;
+			children = (
+				4376D6D5BAC66D238CB1E0A0D8DE6254 /* LICENSE */,
+				2CB4D0BB6B247E06940D64B0BBA32FB3 /* luiz-sdk.podspec */,
+				1A590822A548952598DB6F4F5B380338 /* README.md */,
+			);
+			name = Pod;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
@@ -279,19 +279,19 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		49AB8C2445AC339D7F069DC0AB00D105 /* Headers */ = {
-			isa = PBXHeadersBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				96F3AD9292AE679F983F3BFBF3670EF7 /* luiz-sdk-umbrella.h in Headers */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		5A3274BB5A17EBEFFFBD88A913706DF5 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				30937B7E1939701C56828FE92C680B8E /* Pods-luiz-sdk_Example-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		92807BF8C469D41A166585333C20F56A /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6F7B90FF8D50A016F950F404FAA93F33 /* luiz-sdk-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -310,7 +310,7 @@
 			buildRules = (
 			);
 			dependencies = (
-				F24CF4024C7EDA73D74FE6E776E279FE /* PBXTargetDependency */,
+				C4E1AA8C2AF023804C0802AFFFA38455 /* PBXTargetDependency */,
 			);
 			name = "Pods-luiz-sdk_Tests";
 			productName = Pods_luiz_sdk_Tests;
@@ -329,7 +329,7 @@
 			buildRules = (
 			);
 			dependencies = (
-				DAF48CEA3BF369402943E9EA1019318E /* PBXTargetDependency */,
+				65F6BADBE0516E215895BB6F6F270711 /* PBXTargetDependency */,
 			);
 			name = "Pods-luiz-sdk_Example";
 			productName = Pods_luiz_sdk_Example;
@@ -338,12 +338,12 @@
 		};
 		DF99E309175EACEBA9449D063D4F6129 /* luiz-sdk */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 4D2C6590FC14C7349E7D4AFE992F7C81 /* Build configuration list for PBXNativeTarget "luiz-sdk" */;
+			buildConfigurationList = BEF337D4820EA3623FAFDBEA6002DB21 /* Build configuration list for PBXNativeTarget "luiz-sdk" */;
 			buildPhases = (
-				49AB8C2445AC339D7F069DC0AB00D105 /* Headers */,
-				97531A3DE80D0CA9D5AF81EAF84C2CF2 /* Sources */,
-				E06D23E4AC946E8E0A8631A86FBBAB08 /* Frameworks */,
-				9F558ED49BEC1D663DBD7DB8288A95EB /* Resources */,
+				92807BF8C469D41A166585333C20F56A /* Headers */,
+				F7F0E9C15A23D5A4C36CC87D8269E779 /* Sources */,
+				ECF4F6F004E96A7C48717E787F375C94 /* Frameworks */,
+				24B694B3F8DD85E93E4B674F9DDEA67F /* Resources */,
 			);
 			buildRules = (
 			);
@@ -384,7 +384,7 @@
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		9F558ED49BEC1D663DBD7DB8288A95EB /* Resources */ = {
+		24B694B3F8DD85E93E4B674F9DDEA67F /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -408,27 +408,6 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		97531A3DE80D0CA9D5AF81EAF84C2CF2 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				56A7099C29F244D900D99B90 /* AppCoordinator.swift in Sources */,
-				56A709A029F244D900D99B90 /* DSConstraint.swift in Sources */,
-				56A7099A29F244D900D99B90 /* LuizDesginSystem.swift in Sources */,
-				56A709A129F244D900D99B90 /* DSView.swift in Sources */,
-				56A7099B29F244D900D99B90 /* NSLayoutConstraint+Extension.swift in Sources */,
-				56A7099F29F244D900D99B90 /* Array+Extension.swift in Sources */,
-				56A7099D29F244D900D99B90 /* ParentViewController.swift in Sources */,
-				56A709A229F244D900D99B90 /* NSLayoutConstraintType+Extension.swift in Sources */,
-				56A709A429F244D900D99B90 /* UIView+Extension.swift in Sources */,
-				099D8AD9A4D8D55843D58C94E01A47EB /* luiz-sdk-dummy.m in Sources */,
-				56A7099929F244D900D99B90 /* LColors.swift in Sources */,
-				56A7099E29F244D900D99B90 /* CoordinatorProtocols.swift in Sources */,
-				1D007C0D9B71B338AEFAA1C07EFB12BB /* ReplaceMe.swift in Sources */,
-				56A709A329F244D900D99B90 /* ContentScrollView.swift in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		B905B9223EB6BC846C38345C52B795A4 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -445,20 +424,41 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		F7F0E9C15A23D5A4C36CC87D8269E779 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				029D5F6A7173AF5209966180DD1C53C0 /* AppCoordinator.swift in Sources */,
+				B6873295B2F107992FAA23C5B4940DA6 /* Array+Extension.swift in Sources */,
+				5150F44DA9E464D6624B83B6D10B1788 /* ContentScrollView.swift in Sources */,
+				44A5C70F426DDBCB3CC4D750E311D6E7 /* CoordinatorProtocols.swift in Sources */,
+				0F8AB52995B705E78C32C1A8200809B1 /* DSConstraint.swift in Sources */,
+				2CEBFB039561C0C9A709B40AFDC4C8B4 /* DSView.swift in Sources */,
+				6CF0CCFCDE2F74A96496CD1B5843432D /* LColors.swift in Sources */,
+				F1EEE494B84477420E468736B8DCC99A /* luiz-sdk-dummy.m in Sources */,
+				9BE7C336FEB8447F1544ADADD9C2F926 /* LuizDesginSystem.swift in Sources */,
+				522D2D88A1DDA7EA7FD49A474C6F8ECA /* NSLayoutConstraint+Extension.swift in Sources */,
+				52B850B0ECBFCCE8A5D34CA94F7EF0A9 /* NSLayoutConstraintType+Extension.swift in Sources */,
+				304B830220E08231DA7A60B404C1496C /* ParentViewController.swift in Sources */,
+				562D25A508774ADAB75A492D0CEFF4D6 /* ReplaceMe.swift in Sources */,
+				9D8B92E6EC4CC8956C05A0C18130CF70 /* UIView+Extension.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		DAF48CEA3BF369402943E9EA1019318E /* PBXTargetDependency */ = {
+		65F6BADBE0516E215895BB6F6F270711 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = "luiz-sdk";
 			target = DF99E309175EACEBA9449D063D4F6129 /* luiz-sdk */;
-			targetProxy = 106338930F7F142FD5B7C3A58DCCB008 /* PBXContainerItemProxy */;
+			targetProxy = C5F8B2FF211FEFD0620D2327F291D3A6 /* PBXContainerItemProxy */;
 		};
-		F24CF4024C7EDA73D74FE6E776E279FE /* PBXTargetDependency */ = {
+		C4E1AA8C2AF023804C0802AFFFA38455 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = "Pods-luiz-sdk_Example";
 			target = 23C6266D015F9C3D0B309FA6FBE81147 /* Pods-luiz-sdk_Example */;
-			targetProxy = A4AF8382760AD7BE056ABD04757FB3F5 /* PBXContainerItemProxy */;
+			targetProxy = 2D189E6BB8877684F5BFD39DC4683DD4 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
@@ -490,38 +490,6 @@
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		5B0D12A67D63DAA05CA0534B564928B8 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = F6513C655176651A813F8211CDE2FFC5 /* luiz-sdk.release.xcconfig */;
-			buildSettings = {
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/luiz-sdk/luiz-sdk-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/luiz-sdk/luiz-sdk-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/luiz-sdk/luiz-sdk.modulemap";
-				PRODUCT_MODULE_NAME = luiz_sdk;
-				PRODUCT_NAME = luiz_sdk;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -618,15 +586,16 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
 			name = Release;
 		};
-		8EC2F4FDE90C8329B62E4FFE5163DF24 /* Debug */ = {
+		B1838F9C933BB641DF61F6E6015E8F46 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 18930993B3A148E7267F4A6610ED7C1B /* luiz-sdk.debug.xcconfig */;
+			baseConfigurationReference = 63A42AFC1E1F136104F25AECAE35B0A4 /* luiz-sdk.release.xcconfig */;
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = NO;
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -650,10 +619,11 @@
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
-			name = Debug;
+			name = Release;
 		};
 		D0A52474796E4F6290902946C93900C3 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -787,6 +757,37 @@
 			};
 			name = Debug;
 		};
+		E975AB3876EB90C11E6784AABA1B537A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 15A414EF3BB11F30A19A0C4B2A048D07 /* luiz-sdk.debug.xcconfig */;
+			buildSettings = {
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/luiz-sdk/luiz-sdk-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/luiz-sdk/luiz-sdk-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/luiz-sdk/luiz-sdk.modulemap";
+				PRODUCT_MODULE_NAME = luiz_sdk;
+				PRODUCT_NAME = luiz_sdk;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -799,20 +800,20 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4D2C6590FC14C7349E7D4AFE992F7C81 /* Build configuration list for PBXNativeTarget "luiz-sdk" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				8EC2F4FDE90C8329B62E4FFE5163DF24 /* Debug */,
-				5B0D12A67D63DAA05CA0534B564928B8 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
 		8E43AFF7297D05B76AC841A720C0B0F4 /* Build configuration list for PBXNativeTarget "Pods-luiz-sdk_Tests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D0A52474796E4F6290902946C93900C3 /* Debug */,
 				155BECDA63F87431799E7C6ED3072311 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		BEF337D4820EA3623FAFDBEA6002DB21 /* Build configuration list for PBXNativeTarget "luiz-sdk" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E975AB3876EB90C11E6784AABA1B537A /* Debug */,
+				B1838F9C933BB641DF61F6E6015E8F46 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
