@@ -7,11 +7,13 @@
 //
 
 import UIKit
+import luiz_sdk
 
 class ViewController: UIViewController {
-
+    let view = UIView()
     override func viewDidLoad() {
         super.viewDidLoad()
+        
         // Do any additional setup after loading the view, typically from a nib.
     }
 
