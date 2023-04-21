@@ -13,18 +13,18 @@
 		30937B7E1939701C56828FE92C680B8E /* Pods-luiz-sdk_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = E1456350F3DE81FB7749DEB31B772B02 /* Pods-luiz-sdk_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		32F5596177E41FE3D29A87BFF1733CFC /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
 		3B3A2611C0DE850A40958B687473DF36 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
-		56A7098029F2441100D99B90 /* NSLayoutConstraintType+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56A7097329F2441000D99B90 /* NSLayoutConstraintType+Extension.swift */; };
-		56A7098129F2441100D99B90 /* DSView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56A7097429F2441000D99B90 /* DSView.swift */; };
-		56A7098229F2441100D99B90 /* LColors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56A7097529F2441000D99B90 /* LColors.swift */; };
-		56A7098329F2441100D99B90 /* DSConstraint.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56A7097629F2441100D99B90 /* DSConstraint.swift */; };
-		56A7098429F2441100D99B90 /* ContentScrollView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56A7097729F2441100D99B90 /* ContentScrollView.swift */; };
-		56A7098529F2441100D99B90 /* Array+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56A7097829F2441100D99B90 /* Array+Extension.swift */; };
-		56A7098629F2441100D99B90 /* NSLayoutConstraint+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56A7097929F2441100D99B90 /* NSLayoutConstraint+Extension.swift */; };
-		56A7098729F2441100D99B90 /* AppCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56A7097B29F2441100D99B90 /* AppCoordinator.swift */; };
-		56A7098829F2441100D99B90 /* ParentViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56A7097C29F2441100D99B90 /* ParentViewController.swift */; };
-		56A7098929F2441100D99B90 /* CoordinatorProtocols.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56A7097D29F2441100D99B90 /* CoordinatorProtocols.swift */; };
-		56A7098A29F2441100D99B90 /* UIView+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56A7097E29F2441100D99B90 /* UIView+Extension.swift */; };
-		56A7098B29F2441100D99B90 /* LuizDesginSystem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56A7097F29F2441100D99B90 /* LuizDesginSystem.swift */; };
+		56A7099929F244D900D99B90 /* LColors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56A7098C29F244D900D99B90 /* LColors.swift */; };
+		56A7099A29F244D900D99B90 /* LuizDesginSystem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56A7098D29F244D900D99B90 /* LuizDesginSystem.swift */; };
+		56A7099B29F244D900D99B90 /* NSLayoutConstraint+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56A7098E29F244D900D99B90 /* NSLayoutConstraint+Extension.swift */; };
+		56A7099C29F244D900D99B90 /* AppCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56A7099029F244D900D99B90 /* AppCoordinator.swift */; };
+		56A7099D29F244D900D99B90 /* ParentViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56A7099129F244D900D99B90 /* ParentViewController.swift */; };
+		56A7099E29F244D900D99B90 /* CoordinatorProtocols.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56A7099229F244D900D99B90 /* CoordinatorProtocols.swift */; };
+		56A7099F29F244D900D99B90 /* Array+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56A7099329F244D900D99B90 /* Array+Extension.swift */; };
+		56A709A029F244D900D99B90 /* DSConstraint.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56A7099429F244D900D99B90 /* DSConstraint.swift */; };
+		56A709A129F244D900D99B90 /* DSView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56A7099529F244D900D99B90 /* DSView.swift */; };
+		56A709A229F244D900D99B90 /* NSLayoutConstraintType+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56A7099629F244D900D99B90 /* NSLayoutConstraintType+Extension.swift */; };
+		56A709A329F244D900D99B90 /* ContentScrollView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56A7099729F244D900D99B90 /* ContentScrollView.swift */; };
+		56A709A429F244D900D99B90 /* UIView+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56A7099829F244D900D99B90 /* UIView+Extension.swift */; };
 		841D5B48B3C485CDAEF7EEDF50E3F062 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
 		8A3AACB4EC242FDFA2D98511746BD151 /* Pods-luiz-sdk_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = F8326D3F6B9F2F5A33EA3DACB2234464 /* Pods-luiz-sdk_Tests-dummy.m */; };
 		96F3AD9292AE679F983F3BFBF3670EF7 /* luiz-sdk-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 5F06061F9E5AC5D703BCA5B5E94EF39C /* luiz-sdk-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -58,18 +58,18 @@
 		37ECAF7419E7CE0C3370AB42D899F8F6 /* Pods-luiz-sdk_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-luiz-sdk_Example-Info.plist"; sourceTree = "<group>"; };
 		3E4EB21F301E345561D884D33A262307 /* Pods-luiz-sdk_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-luiz-sdk_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		4E76A754016CF0110DB92E8251C99F11 /* Pods-luiz-sdk_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-luiz-sdk_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		56A7097329F2441000D99B90 /* NSLayoutConstraintType+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "NSLayoutConstraintType+Extension.swift"; sourceTree = "<group>"; };
-		56A7097429F2441000D99B90 /* DSView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DSView.swift; sourceTree = "<group>"; };
-		56A7097529F2441000D99B90 /* LColors.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LColors.swift; sourceTree = "<group>"; };
-		56A7097629F2441100D99B90 /* DSConstraint.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DSConstraint.swift; sourceTree = "<group>"; };
-		56A7097729F2441100D99B90 /* ContentScrollView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContentScrollView.swift; sourceTree = "<group>"; };
-		56A7097829F2441100D99B90 /* Array+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Array+Extension.swift"; sourceTree = "<group>"; };
-		56A7097929F2441100D99B90 /* NSLayoutConstraint+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "NSLayoutConstraint+Extension.swift"; sourceTree = "<group>"; };
-		56A7097B29F2441100D99B90 /* AppCoordinator.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppCoordinator.swift; sourceTree = "<group>"; };
-		56A7097C29F2441100D99B90 /* ParentViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ParentViewController.swift; sourceTree = "<group>"; };
-		56A7097D29F2441100D99B90 /* CoordinatorProtocols.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CoordinatorProtocols.swift; sourceTree = "<group>"; };
-		56A7097E29F2441100D99B90 /* UIView+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIView+Extension.swift"; sourceTree = "<group>"; };
-		56A7097F29F2441100D99B90 /* LuizDesginSystem.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LuizDesginSystem.swift; sourceTree = "<group>"; };
+		56A7098C29F244D900D99B90 /* LColors.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = LColors.swift; path = "../luiz-design-system-old/Sources/LuizDesginSystem/LColors.swift"; sourceTree = "<group>"; };
+		56A7098D29F244D900D99B90 /* LuizDesginSystem.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = LuizDesginSystem.swift; path = "../luiz-design-system-old/Sources/LuizDesginSystem/LuizDesginSystem.swift"; sourceTree = "<group>"; };
+		56A7098E29F244D900D99B90 /* NSLayoutConstraint+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "NSLayoutConstraint+Extension.swift"; path = "../luiz-design-system-old/Sources/LuizDesginSystem/NSLayoutConstraint+Extension.swift"; sourceTree = "<group>"; };
+		56A7099029F244D900D99B90 /* AppCoordinator.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppCoordinator.swift; sourceTree = "<group>"; };
+		56A7099129F244D900D99B90 /* ParentViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ParentViewController.swift; sourceTree = "<group>"; };
+		56A7099229F244D900D99B90 /* CoordinatorProtocols.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CoordinatorProtocols.swift; sourceTree = "<group>"; };
+		56A7099329F244D900D99B90 /* Array+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "Array+Extension.swift"; path = "../luiz-design-system-old/Sources/LuizDesginSystem/Array+Extension.swift"; sourceTree = "<group>"; };
+		56A7099429F244D900D99B90 /* DSConstraint.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = DSConstraint.swift; path = "../luiz-design-system-old/Sources/LuizDesginSystem/DSConstraint.swift"; sourceTree = "<group>"; };
+		56A7099529F244D900D99B90 /* DSView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = DSView.swift; path = "../luiz-design-system-old/Sources/LuizDesginSystem/DSView.swift"; sourceTree = "<group>"; };
+		56A7099629F244D900D99B90 /* NSLayoutConstraintType+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "NSLayoutConstraintType+Extension.swift"; path = "../luiz-design-system-old/Sources/LuizDesginSystem/NSLayoutConstraintType+Extension.swift"; sourceTree = "<group>"; };
+		56A7099729F244D900D99B90 /* ContentScrollView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ContentScrollView.swift; path = "../luiz-design-system-old/Sources/LuizDesginSystem/ContentScrollView.swift"; sourceTree = "<group>"; };
+		56A7099829F244D900D99B90 /* UIView+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "UIView+Extension.swift"; path = "../luiz-design-system-old/Sources/LuizDesginSystem/UIView+Extension.swift"; sourceTree = "<group>"; };
 		5F06061F9E5AC5D703BCA5B5E94EF39C /* luiz-sdk-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "luiz-sdk-umbrella.h"; sourceTree = "<group>"; };
 		613F2219EDE1D6A9670D6EB925C478D3 /* Pods-luiz-sdk_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-luiz-sdk_Tests-Info.plist"; sourceTree = "<group>"; };
 		6B8DCAE4491D4A9746153D8144E90A6B /* Pods-luiz-sdk_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-luiz-sdk_Example-acknowledgements.plist"; sourceTree = "<group>"; };
@@ -152,16 +152,16 @@
 		32CB1CB9A25F109A88E36CB03FE837D5 /* luiz-sdk */ = {
 			isa = PBXGroup;
 			children = (
-				56A7097829F2441100D99B90 /* Array+Extension.swift */,
-				56A7097729F2441100D99B90 /* ContentScrollView.swift */,
-				56A7097629F2441100D99B90 /* DSConstraint.swift */,
-				56A7097429F2441000D99B90 /* DSView.swift */,
-				56A7097529F2441000D99B90 /* LColors.swift */,
-				56A7097F29F2441100D99B90 /* LuizDesginSystem.swift */,
-				56A7097929F2441100D99B90 /* NSLayoutConstraint+Extension.swift */,
-				56A7097329F2441000D99B90 /* NSLayoutConstraintType+Extension.swift */,
-				56A7097A29F2441100D99B90 /* Structure */,
-				56A7097E29F2441100D99B90 /* UIView+Extension.swift */,
+				56A7099329F244D900D99B90 /* Array+Extension.swift */,
+				56A7099729F244D900D99B90 /* ContentScrollView.swift */,
+				56A7099429F244D900D99B90 /* DSConstraint.swift */,
+				56A7099529F244D900D99B90 /* DSView.swift */,
+				56A7098C29F244D900D99B90 /* LColors.swift */,
+				56A7098D29F244D900D99B90 /* LuizDesginSystem.swift */,
+				56A7098E29F244D900D99B90 /* NSLayoutConstraint+Extension.swift */,
+				56A7099629F244D900D99B90 /* NSLayoutConstraintType+Extension.swift */,
+				56A7098F29F244D900D99B90 /* Structure */,
+				56A7099829F244D900D99B90 /* UIView+Extension.swift */,
 				F799C9FE11C92D16E918CE7559BBA7E5 /* ReplaceMe.swift */,
 				4D27FBF20A4F65517810D27B618A4491 /* Pod */,
 				C12DE2D6CB9EE181BA65BC7BEE121FE2 /* Support Files */,
@@ -180,14 +180,15 @@
 			name = Pod;
 			sourceTree = "<group>";
 		};
-		56A7097A29F2441100D99B90 /* Structure */ = {
+		56A7098F29F244D900D99B90 /* Structure */ = {
 			isa = PBXGroup;
 			children = (
-				56A7097B29F2441100D99B90 /* AppCoordinator.swift */,
-				56A7097C29F2441100D99B90 /* ParentViewController.swift */,
-				56A7097D29F2441100D99B90 /* CoordinatorProtocols.swift */,
+				56A7099029F244D900D99B90 /* AppCoordinator.swift */,
+				56A7099129F244D900D99B90 /* ParentViewController.swift */,
+				56A7099229F244D900D99B90 /* CoordinatorProtocols.swift */,
 			);
-			path = Structure;
+			name = Structure;
+			path = "../luiz-design-system-old/Sources/LuizDesginSystem/Structure";
 			sourceTree = "<group>";
 		};
 		578452D2E740E91742655AC8F1636D1F /* iOS */ = {
@@ -411,20 +412,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				56A7098229F2441100D99B90 /* LColors.swift in Sources */,
-				56A7098A29F2441100D99B90 /* UIView+Extension.swift in Sources */,
+				56A7099C29F244D900D99B90 /* AppCoordinator.swift in Sources */,
+				56A709A029F244D900D99B90 /* DSConstraint.swift in Sources */,
+				56A7099A29F244D900D99B90 /* LuizDesginSystem.swift in Sources */,
+				56A709A129F244D900D99B90 /* DSView.swift in Sources */,
+				56A7099B29F244D900D99B90 /* NSLayoutConstraint+Extension.swift in Sources */,
+				56A7099F29F244D900D99B90 /* Array+Extension.swift in Sources */,
+				56A7099D29F244D900D99B90 /* ParentViewController.swift in Sources */,
+				56A709A229F244D900D99B90 /* NSLayoutConstraintType+Extension.swift in Sources */,
+				56A709A429F244D900D99B90 /* UIView+Extension.swift in Sources */,
 				099D8AD9A4D8D55843D58C94E01A47EB /* luiz-sdk-dummy.m in Sources */,
-				56A7098729F2441100D99B90 /* AppCoordinator.swift in Sources */,
-				56A7098B29F2441100D99B90 /* LuizDesginSystem.swift in Sources */,
-				56A7098129F2441100D99B90 /* DSView.swift in Sources */,
-				56A7098829F2441100D99B90 /* ParentViewController.swift in Sources */,
-				56A7098629F2441100D99B90 /* NSLayoutConstraint+Extension.swift in Sources */,
-				56A7098929F2441100D99B90 /* CoordinatorProtocols.swift in Sources */,
-				56A7098329F2441100D99B90 /* DSConstraint.swift in Sources */,
-				56A7098029F2441100D99B90 /* NSLayoutConstraintType+Extension.swift in Sources */,
-				56A7098429F2441100D99B90 /* ContentScrollView.swift in Sources */,
+				56A7099929F244D900D99B90 /* LColors.swift in Sources */,
+				56A7099E29F244D900D99B90 /* CoordinatorProtocols.swift in Sources */,
 				1D007C0D9B71B338AEFAA1C07EFB12BB /* ReplaceMe.swift in Sources */,
-				56A7098529F2441100D99B90 /* Array+Extension.swift in Sources */,
+				56A709A329F244D900D99B90 /* ContentScrollView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
