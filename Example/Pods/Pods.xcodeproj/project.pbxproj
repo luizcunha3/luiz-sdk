@@ -57,19 +57,19 @@
 		14B18AC08A0C8167E56B39D1F4856597 /* ParentViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = ParentViewController.swift; sourceTree = "<group>"; };
 		15A414EF3BB11F30A19A0C4B2A048D07 /* luiz-sdk.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "luiz-sdk.debug.xcconfig"; sourceTree = "<group>"; };
 		18F6BA4E84346DCF3DFF51F5C8889917 /* luiz-sdk-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "luiz-sdk-dummy.m"; sourceTree = "<group>"; };
-		1A590822A548952598DB6F4F5B380338 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		1A590822A548952598DB6F4F5B380338 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		1B1FBA6E515E3EC1357E4AE0EF7A588D /* Pods-luiz-sdk_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-luiz-sdk_Example.modulemap"; sourceTree = "<group>"; };
 		1D3D07830F69A474B2851D635F90D49B /* CoordinatorProtocols.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = CoordinatorProtocols.swift; sourceTree = "<group>"; };
 		23E9E8B945E59450FF233F12D72029E6 /* LuizDesginSystem.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = LuizDesginSystem.swift; path = "luiz-sdk/Classes/LuizDesginSystem.swift"; sourceTree = "<group>"; };
 		2B85A0F1D083DCF77C7AD93AE1ACFCC9 /* DSConstraint.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = DSConstraint.swift; path = "luiz-sdk/Classes/DSConstraint.swift"; sourceTree = "<group>"; };
-		2CB4D0BB6B247E06940D64B0BBA32FB3 /* luiz-sdk.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = "luiz-sdk.podspec"; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		2CB4D0BB6B247E06940D64B0BBA32FB3 /* luiz-sdk.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = "luiz-sdk.podspec"; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		30563EDEF37D9BBC17E3A28E257C2261 /* Pods-luiz-sdk_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-luiz-sdk_Tests-umbrella.h"; sourceTree = "<group>"; };
 		36141A19A3CD1519B0FBBD2B9506D00D /* luiz-sdk */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "luiz-sdk"; path = luiz_sdk.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		37ECAF7419E7CE0C3370AB42D899F8F6 /* Pods-luiz-sdk_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-luiz-sdk_Example-Info.plist"; sourceTree = "<group>"; };
 		383A936F64BAA27CEBD0A7252D25CEDA /* UIView+Extension.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "UIView+Extension.swift"; path = "luiz-sdk/Classes/UIView+Extension.swift"; sourceTree = "<group>"; };
 		3E4EB21F301E345561D884D33A262307 /* Pods-luiz-sdk_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-luiz-sdk_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		432C83BC0443CA22A78E01C995397E0C /* NSLayoutConstraintType+Extension.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "NSLayoutConstraintType+Extension.swift"; path = "luiz-sdk/Classes/NSLayoutConstraintType+Extension.swift"; sourceTree = "<group>"; };
-		4376D6D5BAC66D238CB1E0A0D8DE6254 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		4376D6D5BAC66D238CB1E0A0D8DE6254 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		48237552B8644A57F8AC774F7E5230E2 /* AppCoordinator.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = AppCoordinator.swift; sourceTree = "<group>"; };
 		4BFAEF776913F609F657ACA113561A0D /* luiz-sdk-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "luiz-sdk-Info.plist"; sourceTree = "<group>"; };
 		4E76A754016CF0110DB92E8251C99F11 /* Pods-luiz-sdk_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-luiz-sdk_Tests.release.xcconfig"; sourceTree = "<group>"; };
@@ -79,9 +79,9 @@
 		6B8DCAE4491D4A9746153D8144E90A6B /* Pods-luiz-sdk_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-luiz-sdk_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		7FB24DBBA4EC8D9BE79AB8F4336F6180 /* NSLayoutConstraint+Extension.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "NSLayoutConstraint+Extension.swift"; path = "luiz-sdk/Classes/NSLayoutConstraint+Extension.swift"; sourceTree = "<group>"; };
-		81E3576E276B65ED59B7A8B8947612DE /* Pods-luiz-sdk_Tests */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-luiz-sdk_Tests"; path = Pods_luiz_sdk_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		81E3576E276B65ED59B7A8B8947612DE /* Pods_luiz_sdk_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_luiz_sdk_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		9A61DFA7B065827E4108C08368FF6E00 /* Pods-luiz-sdk_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-luiz-sdk_Example.release.xcconfig"; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9D9F286E24EF673A1F0DC26DAB5B6840 /* Pods-luiz-sdk_Example */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-luiz-sdk_Example"; path = Pods_luiz_sdk_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		A0815A4445122562CA0957C544C7AAE1 /* luiz-sdk-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "luiz-sdk-prefix.pch"; sourceTree = "<group>"; };
 		A0E1EEE379C2A6C61B00375DD1590C2F /* Pods-luiz-sdk_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-luiz-sdk_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
@@ -187,7 +187,7 @@
 			children = (
 				36141A19A3CD1519B0FBBD2B9506D00D /* luiz-sdk */,
 				9D9F286E24EF673A1F0DC26DAB5B6840 /* Pods-luiz-sdk_Example */,
-				81E3576E276B65ED59B7A8B8947612DE /* Pods-luiz-sdk_Tests */,
+				81E3576E276B65ED59B7A8B8947612DE /* Pods_luiz_sdk_Tests.framework */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -314,7 +314,7 @@
 			);
 			name = "Pods-luiz-sdk_Tests";
 			productName = Pods_luiz_sdk_Tests;
-			productReference = 81E3576E276B65ED59B7A8B8947612DE /* Pods-luiz-sdk_Tests */;
+			productReference = 81E3576E276B65ED59B7A8B8947612DE /* Pods_luiz_sdk_Tests.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		23C6266D015F9C3D0B309FA6FBE81147 /* Pods-luiz-sdk_Example */ = {
@@ -685,8 +685,7 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
@@ -709,7 +708,7 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				INFOPLIST_FILE = "Target Support Files/Pods-luiz-sdk_Tests/Pods-luiz-sdk_Tests-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-luiz-sdk_Tests/Pods-luiz-sdk_Tests.modulemap";
@@ -744,7 +743,7 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				INFOPLIST_FILE = "Target Support Files/Pods-luiz-sdk_Tests/Pods-luiz-sdk_Tests-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-luiz-sdk_Tests/Pods-luiz-sdk_Tests.modulemap";
