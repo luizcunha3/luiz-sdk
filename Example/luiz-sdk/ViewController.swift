@@ -10,7 +10,6 @@ import UIKit
 import luiz_sdk
 
 class ViewController: UIViewController {
-    let view = UIView()
     override func viewDidLoad() {
         super.viewDidLoad()
         

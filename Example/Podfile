@@ -1,6 +1,6 @@
 use_frameworks!
 
-platform :ios, '10.0'
+platform :ios, '16.2'
 
 target 'luiz-sdk_Example' do
   pod 'luiz-sdk', :path => '../'

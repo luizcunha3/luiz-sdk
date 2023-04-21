@@ -31,7 +31,7 @@ TODO: Add long description of the pod here.
   s.ios.deployment_target = '16.2'
 
   s.source_files = 'luiz-sdk/Classes/**/*'
-  
+  s.swift_versions = '5'
   # s.resource_bundles = {
   #   'luiz-sdk' => ['luiz-sdk/Assets/*.png']
   # }

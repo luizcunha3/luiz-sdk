@@ -1,6 +1,6 @@
 //
 //  File.swift
-//  
+//
 //
 //  Created by Luiz Cunha on 20/09/22.
 //
@@ -45,11 +45,11 @@ public extension Coordinator {
         }
     }
     private func showRoot(with duration: TimeInterval = 0.3, _ viewController: UIViewController) {
-//        let transition = CATransition()
+        let transition = CATransition()
 //        transition.duration = duration
 //        transition.timingFunction = CAMediaTimingFunction(name: CAMediaTimingFunctionName.easeInEaseOut)
 //        transition.type = .fade
-//        navigationController.view.layer.add(transition, forKey: nil)
+        navigationController.view.layer.add(transition, forKey: nil)
         navigationController.setViewControllers([viewController], animated: false)
         navigationController.dismiss(animated: false, completion: nil)
     }

@@ -1,6 +1,6 @@
 {
   "name": "luiz-sdk",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "A short description of luiz-sdk.",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/luizcunha3/luiz-sdk",
@@ -13,10 +13,12 @@
   },
   "source": {
     "git": "https://github.com/luizcunha3/luiz-sdk.git",
-    "tag": "0.1.0"
+    "tag": "0.1.2"
   },
   "platforms": {
-    "ios": "10.0"
+    "ios": "16.2"
   },
-  "source_files": "luiz-sdk/Classes/**/*"
+  "source_files": "luiz-sdk/Classes/**/*",
+  "swift_versions": "5",
+  "swift_version": "5"
 }

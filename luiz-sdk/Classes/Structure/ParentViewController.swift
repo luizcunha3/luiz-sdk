@@ -1,6 +1,6 @@
 //
 //  File.swift
-//  
+//
 //
 //  Created by Luiz Cunha on 20/09/22.
 //
@@ -30,8 +30,8 @@ final public class ParentViewController: UIViewController {
     }
     
     func load() {
-        addChildViewController(childViewController)
+        addChild(childViewController)
         view.addSubview(childViewController.view)
-        childViewController.didMove(toParentViewController: self)
+        childViewController.didMove(toParent: self)
     }
 }
