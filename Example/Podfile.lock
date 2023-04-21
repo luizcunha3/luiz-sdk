@@ -1,0 +1,16 @@
+PODS:
+  - luiz-sdk (0.1.0)
+
+DEPENDENCIES:
+  - luiz-sdk (from `../`)
+
+EXTERNAL SOURCES:
+  luiz-sdk:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  luiz-sdk: e1fc6c43bc8f9a2b84304ce669b8382480e7762e
+
+PODFILE CHECKSUM: c99ec4d91d20dbc23d43b25dbd831dd4b57d6771
+
+COCOAPODS: 1.12.1
