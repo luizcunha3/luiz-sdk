@@ -18,7 +18,8 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-Meu amigo, esse é meu sdk, pra simplificar a minha vida. Aqui vai entrar um monte de retalho de codigo que eu ja criei/vi em algum lugar e achei maneiro. Não espere suporte de minha parte. Use a vontade
+Meu amigo, esse é meu sdk, pra simplificar a minha vida. Aqui vai entrar um monte de retalho de codigo que eu ja criei/vi em algum lugar e achei maneiro. Não espere suporte de minha parte. Use a vontade.
+Agora eu ja não sei mais o que eu tenho que colocar aqui, pq os cara ta falando que não ta suficient ainda
                        DESC
 
   s.homepage         = 'https://github.com/luizcunha3/luiz-sdk'
