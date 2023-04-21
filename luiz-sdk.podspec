@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'luiz-sdk'
-  s.version          = '0.1.7'
+  s.version          = '0.1.8'
   s.summary          = 'A short description of luiz-sdk.'
 
 # This description is used to generate tags and improve search results.
@@ -29,7 +29,7 @@ Agora eu ja não sei mais o que eu tenho que colocar aqui, pq os cara ta falando
   s.source           = { :git => 'https://github.com/luizcunha3/luiz-sdk.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '16.2'
+  s.ios.deployment_target = '16.0'
 
   s.source_files = 'luiz-sdk/Classes/**/*'
   s.swift_versions = '5'

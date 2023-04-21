@@ -64,7 +64,7 @@
 		2B85A0F1D083DCF77C7AD93AE1ACFCC9 /* DSConstraint.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = DSConstraint.swift; path = "luiz-sdk/Classes/DSConstraint.swift"; sourceTree = "<group>"; };
 		2CB4D0BB6B247E06940D64B0BBA32FB3 /* luiz-sdk.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = "luiz-sdk.podspec"; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		30563EDEF37D9BBC17E3A28E257C2261 /* Pods-luiz-sdk_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-luiz-sdk_Tests-umbrella.h"; sourceTree = "<group>"; };
-		36141A19A3CD1519B0FBBD2B9506D00D /* luiz-sdk */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "luiz-sdk"; path = luiz_sdk.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		36141A19A3CD1519B0FBBD2B9506D00D /* luiz_sdk.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = luiz_sdk.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		37ECAF7419E7CE0C3370AB42D899F8F6 /* Pods-luiz-sdk_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-luiz-sdk_Example-Info.plist"; sourceTree = "<group>"; };
 		383A936F64BAA27CEBD0A7252D25CEDA /* UIView+Extension.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "UIView+Extension.swift"; path = "luiz-sdk/Classes/UIView+Extension.swift"; sourceTree = "<group>"; };
 		3E4EB21F301E345561D884D33A262307 /* Pods-luiz-sdk_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-luiz-sdk_Example.debug.xcconfig"; sourceTree = "<group>"; };
@@ -185,7 +185,7 @@
 		9F9FBB319AAA8C25DDF0985B0BA36140 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				36141A19A3CD1519B0FBBD2B9506D00D /* luiz-sdk */,
+				36141A19A3CD1519B0FBBD2B9506D00D /* luiz_sdk.framework */,
 				9D9F286E24EF673A1F0DC26DAB5B6840 /* Pods-luiz-sdk_Example */,
 				81E3576E276B65ED59B7A8B8947612DE /* Pods_luiz_sdk_Tests.framework */,
 			);
@@ -351,7 +351,7 @@
 			);
 			name = "luiz-sdk";
 			productName = luiz_sdk;
-			productReference = 36141A19A3CD1519B0FBBD2B9506D00D /* luiz-sdk */;
+			productReference = 36141A19A3CD1519B0FBBD2B9506D00D /* luiz_sdk.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 /* End PBXNativeTarget section */
@@ -549,7 +549,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/luiz-sdk/luiz-sdk-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/luiz-sdk/luiz-sdk-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/luiz-sdk/luiz-sdk.modulemap";
 				PRODUCT_MODULE_NAME = luiz_sdk;
@@ -777,7 +777,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/luiz-sdk/luiz-sdk-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/luiz-sdk/luiz-sdk-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/luiz-sdk/luiz-sdk.modulemap";
 				PRODUCT_MODULE_NAME = luiz_sdk;
